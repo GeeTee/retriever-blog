@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://geetee.github.io/retriever-blog/sitemap.xml
