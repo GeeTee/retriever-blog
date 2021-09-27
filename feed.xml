@@ -3,7 +3,7 @@
     <title>Retriever-training</title>
     <link href="https://geetee.github.io/retriever-blog/feed.xml" rel="self" />
     <link href="https://geetee.github.io/retriever-blog" />
-    <updated>2021-09-27T16:29:04+02:00</updated>
+    <updated>2021-09-27T20:02:16+02:00</updated>
     <author>
         <name>Gilles Testard</name>
     </author>
@@ -16,45 +16,38 @@
         </author>
         <link href="https://geetee.github.io/retriever-blog/le-retriever-plus-quune-passion-un-fil-conducteur.html"/>
         <id>https://geetee.github.io/retriever-blog/le-retriever-plus-quune-passion-un-fil-conducteur.html</id>
+            <category term="Retriever"/>
 
-        <updated>2021-09-27T16:29:04+02:00</updated>
+        <updated>2021-09-27T20:02:16+02:00</updated>
             <summary>
                 <![CDATA[
-                    Je développe : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ut magna et fermentum. Praesent pulvinar, dolor nec sodales pharetra, augue nisi ultricies enim, non malesuada lacus enim eget velit. Quisque vehicula dictum tincidunt. Cras sodales non turpis vitae pellentesque. Aenean tempus&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Je développe :</p>
-<div id="lipsum">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ut magna et fermentum. Praesent pulvinar, dolor nec sodales pharetra, augue nisi ultricies enim, non malesuada lacus enim eget velit. Quisque vehicula dictum tincidunt. Cras sodales non turpis vitae pellentesque. Aenean tempus mi sit amet enim volutpat, vel lacinia purus luctus. Duis lorem tortor, euismod eu finibus lacinia, rutrum in ex. Duis lacinia tempor enim vel imperdiet. Donec nec auctor nunc. Ut sed vulputate eros. Nullam auctor orci elit, non rhoncus odio lacinia at. Aliquam ac sapien laoreet, placerat magna eget, bibendum tortor.</p>
-<p> </p>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Post 2</title>
-        <author>
-            <name>Gilles Testard</name>
-        </author>
-        <link href="https://geetee.github.io/retriever-blog/post-2.html"/>
-        <id>https://geetee.github.io/retriever-blog/post-2.html</id>
-
-        <updated>2021-09-27T15:47:19+02:00</updated>
-            <summary>
-                <![CDATA[
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ut magna et fermentum. Praesent pulvinar, dolor nec sodales pharetra, augue nisi ultricies enim, non malesuada lacus enim eget velit. Quisque vehicula dictum tincidunt. Cras sodales non turpis vitae pellentesque. Aenean tempus mi sit&hellip;
+                     Je ne voudrais pas tomber dans le sentimentalisme, mais ce sujet a quelque chose de personnel donc ... Je dois avouer que je suis né avec l'esprit "dresseur". Mon grand père né pendant la grande guerre était charretier et dressait, conduisait les chevaux de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <div id="lipsum">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ut magna et fermentum. Praesent pulvinar, dolor nec sodales pharetra, augue nisi ultricies enim, non malesuada lacus enim eget velit. Quisque vehicula dictum tincidunt. Cras sodales non turpis vitae pellentesque. Aenean tempus mi sit amet enim volutpat, vel lacinia purus luctus. Duis lorem tortor, euismod eu finibus lacinia, rutrum in ex. Duis lacinia tempor enim vel imperdiet. Donec nec auctor nunc. Ut sed vulputate eros. Nullam auctor orci elit, non rhoncus odio lacinia at. Aliquam ac sapien laoreet, placerat magna eget, bibendum tortor.</p>
-<p>Donec condimentum at lacus et condimentum. Pellentesque congue, libero vitae tincidunt pulvinar, odio magna semper ante, quis congue mi tellus et augue. Integer ultrices nisl arcu. Vivamus bibendum at est et egestas. Praesent ac consectetur dolor, at ultrices elit. Pellentesque sollicitudin neque diam. Etiam in neque vel leo finibus feugiat. Integer non sem ante. Vestibulum scelerisque ullamcorper ligula sit amet porttitor. Suspendisse potenti. Integer et nisi at eros pretium varius id non dui. Ut consectetur pharetra volutpat. Nullam sit amet ullamcorper mauris. Mauris et turpis sapien. Pellentesque sollicitudin mauris id elit egestas, sit amet semper magna aliquet.</p>
-<p>Duis purus elit, venenatis eget hendrerit eu, varius ac ipsum. Pellentesque pharetra dolor at odio imperdiet pharetra. Etiam tempor semper ex, ut pellentesque tortor dictum a. Curabitur a placerat enim, eget posuere enim. Fusce pellentesque vulputate dolor, ut tristique nibh rhoncus id. Etiam eu bibendum ante, ut fermentum magna. Sed at dui a quam rutrum feugiat nec vel ante. Donec commodo orci tortor, et auctor metus rhoncus id. Nam est nisl, egestas sed hendrerit vel, faucibus sed nulla.</p>
-<p>Nulla tristique et risus at venenatis. Nulla laoreet enim massa, vel molestie tellus mollis faucibus. Proin sit amet metus sed quam mattis maximus. Nunc ullamcorper mi nec velit ultricies, eu porttitor metus hendrerit. Duis tempor est et odio molestie, in ullamcorper massa luctus. Suspendisse vitae nulla tortor. Praesent urna urna, euismod id tincidunt et, porttitor quis odio. Phasellus mauris urna, dictum sed arcu non, pulvinar ornare lacus. Etiam venenatis ornare ultrices. Nulla in ipsum viverra, euismod est ut, laoreet nunc. Ut consectetur lectus eu lorem pulvinar, a finibus risus fringilla. Duis tincidunt lorem in orci commodo, eu luctus diam dignissim.</p>
-<p>Quisque tempus purus id elit condimentum gravida. Sed nec elit quis mauris porta finibus. Donec eget euismod nisl, in varius enim. Integer laoreet finibus libero, eget tristique sapien aliquam molestie. Etiam tempus eget augue et luctus. Vestibulum malesuada iaculis fermentum. Praesent porttitor, ex lobortis convallis iaculis, diam nulla sollicitudin urna, non commodo magna eros eu lacus. In efficitur egestas dapibus. Maecenas in felis sit amet augue rutrum accumsan. Proin venenatis ligula in massa vehicula, nec rhoncus sapien fermentum. Aliquam massa lorem, dictum at nunc eget, bibendum vestibulum felis.</p>
+<p>Je ne voudrais pas tomber dans le sentimentalisme, mais ce sujet a quelque chose de personnel donc ...<br>Je dois avouer que je suis né avec l'esprit "dresseur".<br>Mon grand père né pendant la grande guerre était charretier et dressait, conduisait les chevaux de traits. Quand j'ai abordé l'adolescence, je me suis intéressé aux chevaux. Il va sans dire qu'il m'y a encouragé.<br>J'ai donc découvert le cheval de club puis le monde du concours hippique.<br>J'ai passé mon premier degré, deuxième degré ... (ça c'était avant 😆), puis j'ai rencontré d'excellents cavaliers de concours qui m'ont initié à la méthodologie, la rigueur, la régularité, la progressivité des entraînement du cheval de sport... et c'est resté dans ma tête!</p>
+<h2>Découverte du chien de travail</h2>
+<p>C'est le service militaire qui m'a fait découvrir le chien de travail. En effet, tout juste arrivé dans le régiment où j'allais passé une année, je me suis battu pour obtenir le poste de maître chien alors qu'on me destinait à un poste de secrétariat comptabilité.<br>Du coup, après mes classes, je me suis retrouvé au 132° CGAT à Suippes dans la Marne.<br>Quel choc : plusieurs centaines de chiens, des formateurs cynotechniques, des pelotons d'élèves maîtres chiens, moniteurs et instructeurs. Un univers dédié au chien de travail militaire, j'en ai pris plein le vue, j'en ai profité un maximum!<br>Ce qui a été vraiment intéressant, c'est que la formation passait par une instruction théorique : anatomie, nutrition, entretien, concept d'entraînement et j'en oubli!<br>Ce n'était pas que pratique sur le terrain.<br>La pratique sur le terrain, occupait une part importante de notre emploi du temps, mais ce n'était pas que de l'entraînement :</p>
+<ul>
+<li>Préparation de la nourriture</li>
+<li>Distribution de celle ci</li>
+<li>Nettoyage du chenil</li>
+<li>Pansage quotidien</li>
+<li>Visites vétérinaires</li>
+</ul>
+Je ne vais pas développer beaucoup plus, mais sincèrement ce fût sacrément profitable.</div>
+<div>Puis retour à la vie civile atteint d'une maladie incurable et toujours active en moi : l'entraînement du chien de travail.<br>Mais je n'ai pas trouvé de métier satisfaisant dans le civil donnant la possibilité d'entraîner et d'utiliser.<br>Par ce que tordu comme je suis, j'aime que ce que je pratique soit utile.</div>
+<div>
+<p>Alors je me suis engagé dans l'armée de terre pour un contrat de spécialiste Cynotechnie militaire (EVSP).<br>J'étais en Bretagne, à Coëtquidan, au Peloton Canin de la Région militaire dont le job était, pour faire simple de préparer des chiens militaires à leur métier mais aussi de préparer ceux qui devaient les conduire.<br>Donc tous les jours, on entraînait.<br>On entraînait les chiens au travers de leur maître que ce soient des hommes du peloton que des stagiaires.<br>L'objectif principal était de </p>
+<ul>
+<li>attribuer le bon chien à chacun</li>
+<li>amener le maître à bien appréhender la psychologie canine</li>
+<li>former le maître à la gestion du chien militaire</li>
+<li>entretenir le dressage du chien et l'améliorer au travers des exercices proposés au maîtres chien</li>
+</ul>
+<p>J'aime et je respecte le monde animal, la nature dans ce qu'elle a de vrai mais sans en occulter les aspects durs pas vraiment "bien pensant" de ses acteurs.<br>Je pense au prédateur qui déchire sa proie avant qu'elle ne soit morte par exemple.<br>Donc pour moi la chasse ...</p>
 </div>
             ]]>
         </content>
